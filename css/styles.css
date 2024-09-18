@@ -16,7 +16,7 @@ body {
     background-color: #f6eee4;
 }
 
-img {
+img, video {
     max-width: 100%;
     display: block;
 }
@@ -87,6 +87,10 @@ main h3 {
 
 main ul {
     list-style-type: square;
+}
+
+video {
+    margin: 0 auto 4%;
 }
 
 .link {
